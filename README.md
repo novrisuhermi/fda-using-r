@@ -1,1 +1,1 @@
-# fda-using-r
+# Functional Data Analysis using R
